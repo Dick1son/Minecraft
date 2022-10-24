@@ -1,0 +1,60 @@
+[12:28:01] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[12:28:01] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[12:28:01] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
+Forge: 14.23.5.2860
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=ru_ru, locale=ru_ru
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленькие иконки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Квадрат, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленькие иконки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=false, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=FPS, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Прямоугольник, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=false, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7.1, mobDisplay=Маленький точки, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=false, showMobHeading=true, showKeys=false, showWaypointLabels=true, locationFormatVerbose=true, showMobs=false, showPets=true, fontScale=2, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.7.1, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Квадрат, alwaysMapSurface=true, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=true, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=true, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=7, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.1, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=0, renderOverlayPreEvent=true, autoMapPoll=2000}
+[12:28:01] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[12:28:01] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:28:01] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[12:28:12] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[12:28:12] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[12:29:10] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for streams
+[12:29:10] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[12:29:10] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\waypoints
+[12:29:10] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\DIM0. Memory: 5952MB total, 2964MB free 
+[12:29:31] [Client thread/INFO] [ChatLog] JourneyMap: Нажмите [J].
+[12:36:16] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 203.7471 (Warning limit reached)
+[12:36:16] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.01ms, Min:        0ms, Max:     305.56ms, Total:          3 sec, Count:   289497, Canceled:        0, Slow:       10
+[13:04:06] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:04:06] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[14:08:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\DIM0
+[14:10:54] [Client thread/INFO] [WaypointStore] Loaded 4 waypoints from C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\waypoints
+[14:10:54] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\DIM0. Memory: 7072MB total, 4649MB free 
+[14:27:10] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 266.7986 (Warning limit reached)
+[14:27:10] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.01ms, Min:        0ms, Max:      266.8ms, Total:          3 sec, Count:   525587, Canceled:        0, Slow:       10
+[15:03:42] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[15:03:43] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:12:08] [Client thread/INFO] [StateTickHandler] Kycha died at BlockPos{x=1470, y=65, z=1780}. Deathpoints enabled: true. Deathpoint created: true
+[16:37:18] [JM-task-5/WARN] [SurfaceRenderer] java.lang.NullPointerException
+	at journeymap.client.cartography.render.SurfaceRenderer.paintStrata(SurfaceRenderer.java:368)
+	at journeymap.client.cartography.render.SurfaceRenderer.renderSurface(SurfaceRenderer.java:190)
+	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:113)
+	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:86)
+	at journeymap.client.cartography.ChunkRenderController.renderChunk(ChunkRenderController.java:140)
+	at journeymap.client.task.multi.BaseMapTask.performTask(BaseMapTask.java:122)
+	at journeymap.client.task.multi.TaskBatch.performTask(TaskBatch.java:72)
+	at journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch.performTask(MapPlayerTask.java:416)
+	at journeymap.client.thread.RunnableTask$Inner.run(RunnableTask.java:78)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+[17:30:03] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\BoGomDan\journeymap\data\mp\~Minecraft\DIM0

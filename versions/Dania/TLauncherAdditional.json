@@ -1,0 +1,118 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "24d05fdd07a59ff816c1b85bf756d13ccc771be9",
+      "size": 17332865,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+    },
+    {
+      "sha1": "b78d6d3c3160407bd7a6da30b345dd2b8b29da34",
+      "size": 10007043,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+    },
+    {
+      "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+      "size": 7236064,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt"
+    },
+    {
+      "sha1": "0dd501541eb617a551187ad7d6130623989584dd",
+      "size": 11637719,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+    },
+    {
+      "sha1": "8d9e09ded143d82374712fd89df2304bff4d257d",
+      "size": 5285229,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.1.36/forge-1.19.2-43.1.36-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.1.36/forge-1.19.2-43.1.36-client.jar"
+    },
+    {
+      "sha1": "934802c198826533f547d5b3b227a8a796eea3fa",
+      "size": 2589215,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.1.36/forge-1.19.2-43.1.36-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.1.36/forge-1.19.2-43.1.36-universal.jar"
+    },
+    {
+      "sha1": "b2c80548103c77fddf2625e12212ccbd55271701",
+      "size": 112534,
+      "path": "libraries/net/minecraftforge/fmlcore/1.19.2-43.1.36/fmlcore-1.19.2-43.1.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.19.2-43.1.36/fmlcore-1.19.2-43.1.36.jar"
+    },
+    {
+      "sha1": "1f2828a12cfdf07db1f2ed2dcd49925116b84681",
+      "size": 16351,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.19.2-43.1.36/javafmllanguage-1.19.2-43.1.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.19.2-43.1.36/javafmllanguage-1.19.2-43.1.36.jar"
+    },
+    {
+      "sha1": "5bf7e4a57cf3ece0b0b441e21c47bab9b6765428",
+      "size": 4987,
+      "path": "libraries/net/minecraftforge/mclanguage/1.19.2-43.1.36/mclanguage-1.19.2-43.1.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.19.2-43.1.36/mclanguage-1.19.2-43.1.36.jar"
+    },
+    {
+      "sha1": "9c2b6666225ddc9a2a76b41a0973de1c56f48b41",
+      "size": 7377,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.1.36/lowcodelanguage-1.19.2-43.1.36.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.19.2-43.1.36/lowcodelanguage-1.19.2-43.1.36.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -431309184522100,
+    "name": "Dania",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "favorite": false,
+          "version": {
+            "id": 11002225,
+            "name": "1.27",
+            "metadata": {
+              "sha1": "e908d5e7378608060d1b76d6b2e3488ee71ef35a",
+              "size": 624975,
+              "path": "mods/tl_skin_cape_forge_1.19_1.19.2-1.27.jar",
+              "url": "/mods/20140325/11002224/tl_skin_cape_forge_1.19_1.19.2-1.27.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 38,
+        "name": "1.19.2"
+      },
+      "forgeVersionDTO": {
+        "id": 3351,
+        "name": "43.1.36"
+      },
+      "id": -431309184547201,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.19.2",
+  "skinVersion": true
+}

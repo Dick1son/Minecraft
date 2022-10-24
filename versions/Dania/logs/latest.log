@@ -1,0 +1,557 @@
+[23:01:18] [main/INFO]: ModLauncher running: args [--username, Kycha, --version, Dania, --gameDir, C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania, --assetsDir, C:\Users\Dick1son\AppData\Roaming\.minecraft\assets, --assetIndex, 1.19, --uuid, fc2011fe4676410ab6124cd712d4a5ae, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 43.1.36, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[23:01:18] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[23:01:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Dick1son/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[23:01:18] [main/INFO]: Found mod file 1.19.2-Gravestone-Mod-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file AlchemicArmoury1.01.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file apexcore-1.19.2-7.3.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file AppleCrates-forge-1.19.2-2.9.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file bettervillage-forge-1.19.2-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Blue-s-Dynamic-Lights-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file ChatHeads-Forge-1.19.1-0.7.1.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file cloth-config-8.2.88-1.19-forge.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file create-1.19.2-0.5.0.f (1).jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file CreativeCore_FORGE_v2.8.7_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Croptopia-1.19.2-FORGE-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Dragon-Mounts-Legacy-1.19-1.1.4a.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file fantasyfurniture-1.19.2-6.6.0.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Furnish-The-Halloween-Update-1.19.3_1.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.19-1.7.2.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file ironchest-1.19.2-14.2.7.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file ItemPhysic_FORGE_v1.6.4_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Jade-1.19.1-forge-8.3.1.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file jei-1.19.2-forge-11.3.0.262.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Kotlin-for-Forge-1.18-1.19.2-3.7.1.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Library-ferret-3.0.0-Forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file majrusz-library-1.19.2-2.15.1.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file majruszs-difficulty-1.19.2-1.5.11.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file NEBs-Release-1.8-for-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Paintings-v1.0.4-mc1.19.2-Forge.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file stalwart-dungeons-1.19.2-1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file sushigocrafting-1.19.2-0.3.8.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Tectonic-v1.0.2-for-1.19.x.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file titanium-1.19.2-3.7.0-22.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file tl_skin_cape_forge_1.19_1.19.2-1.27.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file tl_skin_cape_forge_1.19_1.19.2-1.28.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:18] [main/INFO]: Found mod file Xaeros_Minimap_22.13.0_Forge_1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods}
+[23:01:19] [main/WARN]: Mod file C:\Users\Dick1son\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.19.2-43.1.36\fmlcore-1.19.2-43.1.36.jar is missing mods.toml file
+[23:01:19] [main/WARN]: Mod file C:\Users\Dick1son\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.1.36\javafmllanguage-1.19.2-43.1.36.jar is missing mods.toml file
+[23:01:19] [main/WARN]: Mod file C:\Users\Dick1son\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.1.36\lowcodelanguage-1.19.2-43.1.36.jar is missing mods.toml file
+[23:01:19] [main/WARN]: Mod file C:\Users\Dick1son\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.19.2-43.1.36\mclanguage-1.19.2-43.1.36.jar is missing mods.toml file
+[23:01:19] [main/INFO]: Found mod file fmlcore-1.19.2-43.1.36.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.1.36.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.1.36.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/INFO]: Found mod file mclanguage-1.19.2-43.1.36.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/INFO]: Found mod file forge-1.19.2-43.1.36-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@400d912a
+[23:01:19] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\mods\apexcore-1.19.2-7.3.0.jar
+[23:01:19] [main/INFO]: Found 3 dependencies adding them to mods collection
+[23:01:19] [main/INFO]: Found mod file commonality-1.19.2-4.2.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@51b1a8f6
+[23:01:19] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.7-8.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@51b1a8f6
+[23:01:19] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@51b1a8f6
+[23:01:21] [main/INFO]: Compatibility level set to JAVA_17
+[23:01:21] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[23:01:21] [main/INFO]: Launching target 'forgeclient' with arguments [--version, Dania, --gameDir, C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania, --assetsDir, C:\Users\Dick1son\AppData\Roaming\.minecraft\assets, --uuid, fc2011fe4676410ab6124cd712d4a5ae, --username, Kycha, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[23:01:21] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[23:01:21] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[23:01:26] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[23:01:28] [Render thread/WARN]: Assets URL 'union:/C:/Users/Dick1son/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23184!/assets/.mcassetsroot' uses unexpected schema
+[23:01:28] [Render thread/WARN]: Assets URL 'union:/C:/Users/Dick1son/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23184!/data/.mcassetsroot' uses unexpected schema
+[23:01:28] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:01:29] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:155) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:161) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:646) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:405) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.1.36.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-3.11.49.5.jar%23122!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-3.11.49.5.jar%23122!/:?]
+	... 19 more
+[23:01:29] [Render thread/INFO]: Setting user: Kycha
+[23:01:30] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[23:01:30] [modloading-worker-0/INFO]: Scanning classes for titanium
+[23:01:30] [modloading-worker-0/INFO]: Game modifier group 'null' has been initialized.
+[23:01:30] [modloading-worker-0/INFO]: Game modifier 'BlockSmelter' has been inserted to 'null'.
+[23:01:30] [modloading-worker-0/INFO]: Registered Furnish Containers.
+[23:01:30] [modloading-worker-0/INFO]: Registered Furnish Recipe Types.
+[23:01:30] [modloading-worker-0/INFO]: Registered Furnish Recipes Serializers.
+[23:01:30] [modloading-worker-0/INFO]: Game modifier group 'majruszsdifficulty:default' has been initialized.
+[23:01:30] [modloading-worker-0/INFO]: Game modifier group 'majruszsdifficulty:undead_army' has been initialized.
+[23:01:30] [modloading-worker-0/INFO]: Game modifier group 'majruszsdifficulty:game_stage' has been initialized.
+[23:01:30] [modloading-worker-0/INFO]: Game modifier group 'majruszsdifficulty:treasure_bag' has been initialized.
+[23:01:31] [modloading-worker-0/INFO]: Registered Furnish Entities.
+[23:01:31] [modloading-worker-0/INFO]: Registered Furnish Tile Entities.
+[23:01:31] [modloading-worker-0/INFO]: Registered Furnish Sounds.
+[23:01:31] [modloading-worker-0/INFO]: Scanning classes for sushigocrafting
+[23:01:31] [modloading-worker-0/WARN]: libraryferret - > Failed to load properties properties file not found
+[23:01:31] [modloading-worker-0/ERROR]: C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\libraryferret.properties (Не удается найти указанный файл)
+[23:01:31] [modloading-worker-0/INFO]: libraryferret - > Initialize library
+[23:01:31] [modloading-worker-0/INFO]: libraryferret - > Initialized library
+[23:01:31] [modloading-worker-0/INFO]: No shaders mod detected.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'Bandages' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'BiteBleeding' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'BlockIllusionerFromJoiningRaids' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CactusBleeding' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperChainReaction' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperExplodeBehindWall' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperExplosionImmunity' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperlingsCannotDestroyBlocks' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperSpawnCharged' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperSpawnDebuffed' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'CreeperSplitIntoCreeperlings' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'DoubleLoot' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'DrownDebuffs' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'DrownedLightningAttack' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'EndermanTeleport' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'EvokerWithTotem' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'ExperienceBonus' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'FallDebuffs' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier '' has been inserted to 'majruszsdifficulty:game_stage'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'JockeySpawn' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/WARN]: libraryferret - > Failed to load properties properties file not found
+[23:01:31] [modloading-worker-0/ERROR]: C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\bettervillage.properties (Не удается найти указанный файл)
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'LootProgressManager' has been inserted to 'majruszsdifficulty:treasure_bag'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'MobsSpawnStronger' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'PhantomLevitationAttack' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'PiglinsInGroup' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'PowerfulExplosions' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SharpToolsBleeding' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'ShulkerBlindnessAttack' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SkeletonsInGroup' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SlimeSlownessAttack' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SpawnBlocker' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SpawnPlayerZombie' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'SpiderPoisonAttack' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'ThrowableWeaponsBleeding' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier '' has been inserted to 'majruszsdifficulty:treasure_bag'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'UndeadArmyEventsHandler' has been inserted to 'majruszsdifficulty:undead_army'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'WitherSkeletonWithSword' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'WitherSwordEffect' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Game modifier 'ZombiesInGroup' has been inserted to 'majruszsdifficulty:default'.
+[23:01:31] [modloading-worker-0/INFO]: Forge mod loading, version 43.1.36, for MC 1.19.2 with MCP 20220805.130853
+[23:01:31] [modloading-worker-0/INFO]: MinecraftForge v43.1.36 Initialized
+[23:01:32] [modloading-worker-0/INFO]: Running Minecraft '1.19.2', & Forge '43.1.36' on Java '17.0.3, Microsoft'
+[23:01:32] [modloading-worker-0/INFO]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[23:01:32] [modloading-worker-0/INFO]: Loading mod 'apexcore' TrustWorthiness...
+[23:01:32] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[23:01:32] [modloading-worker-0/INFO]: Loaded 564 BlackListed sources from remote
+[23:01:32] [modloading-worker-0/INFO]: Loading mod 'commonality' TrustWorthiness...
+[23:01:32] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[23:01:32] [modloading-worker-0/INFO]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[23:01:32] [modloading-worker-0/INFO]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[23:01:32] [modloading-worker-0/FATAL]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[23:01:32] [modloading-worker-0/INFO]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[23:01:32] [modloading-worker-0/INFO]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[23:01:33] [modloading-worker-0/INFO]: [inventoryprofilesnext] Inventory Profiles Next - init in Kotlin
+[23:01:34] [Render thread/INFO]: Registered Furnish Items.
+[23:01:34] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:34] [Render thread/INFO]: Registered Furnish Items.
+[23:01:34] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:34] [Render thread/INFO]: Registered Furnish Items.
+[23:01:34] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:36] [Render thread/INFO]: Registered Furnish Items.
+[23:01:36] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:37] [Render thread/INFO]: Registered Furnish Items.
+[23:01:37] [Render thread/INFO]: Registered Furnish Paintings.
+[23:01:38] [Render thread/INFO]: Saving config file: C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\jei\jei-client.ini
+[23:01:38] [Render thread/INFO]: Registered Furnish Entity/BlockEntity Renderers.
+[23:01:38] [Worker-Main-1/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:152) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_243396_(ProfileKeyPairManager.java:75) ~[client-1.19.2-20220805.130853-srg.jar%23184!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[23:01:38] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[23:01:38] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\apple_crates_client.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key crate_item_rendering was corrected from null to its default, THREE. 
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\flywheel-client.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key backend was corrected from null to its default, INSTANCING. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key debugNormals was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key limitUpdates was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\gravestone-client.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key render_skull was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key grave_text_color was corrected from null to its default, FFFFFF. 
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\dragonmounts-client.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key camera_flight_controls was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\create-client.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[23:01:38] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\furnish-common.toml is not correct. Correcting
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key restrictMailboxItems was corrected from null to its default, true. 
+[23:01:38] [modloading-worker-0/WARN]: Incorrect key creativeDestroyMailbox was corrected from null to its default, false. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\titanium\titanium.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.thisIsABoolean was corrected from null to its default, true. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.NOT_BOOLEAN was corrected from null to its default, false. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.intAngery was corrected from null to its default, 7. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.Dabber was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.Dabber.dabby was corrected from null to its default, lil dab. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.TestBlock was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TitaniumConfig.TestBlock.DUMB_VALUE was corrected from null to its default, 135. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\titanium\titanium-tags.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TagConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key TagConfig.ITEM_PREFERENCE was corrected from null to its default, [minecraft, emendatusenigmatica, immersiveengineering, thermal, create, mekanism, jaopca, kubejs, appliedenergistics2, pneumaticcraft, occultism, tmechworks, industrialforegoing, botania, quark, pedestals]. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\croptopia-common.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key rightClickHarvest was corrected from null to its default, true. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key disableSaltGeneration was corrected from null to its default, false. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.orange_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.orange_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:sunflower_plains, minecraft:plains, minecraft:windswept_forest, byg:aspen_forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.dragon_fruit_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.dragon_fruit_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.kumquat_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.kumquat_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.banana_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.banana_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.plum_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.plum_tree_configured.biomes was corrected from null to its default, [byg:autumnal_forest, minecraft:forest, byg:autumnal_taiga, minecraft:windswept_forest, byg:aspen_forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, byg:jacaranda_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.date_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.date_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cashew_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cashew_tree_configured.biomes was corrected from null to its default, [minecraft:dark_forest, byg:weeping_witch_forest, byg:twilight_meadow, byg:dacite_ridges, byg:ebony_woods, byg:maple_taiga]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.mango_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.mango_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.coconut_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.coconut_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.apricot_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.apricot_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.nutmeg_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.nutmeg_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.persimmon_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.persimmon_tree_configured.biomes was corrected from null to its default, [byg:autumnal_forest, minecraft:forest, byg:autumnal_taiga, minecraft:windswept_forest, byg:aspen_forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, byg:jacaranda_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.almond_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.almond_tree_configured.biomes was corrected from null to its default, [minecraft:dark_forest, byg:weeping_witch_forest, byg:twilight_meadow, byg:dacite_ridges, byg:ebony_woods, byg:maple_taiga]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.avocado_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.avocado_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.fig_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.fig_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cinnamon_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cinnamon_tree_configured.biomes was corrected from null to its default, [byg:tropical_islands, byg:tropical_rainforest, byg:cypress_swamplands, byg:crag_gardens, minecraft:sparse_jungle, minecraft:jungle, byg:white_mangrove_marshes, byg:temperate_rainforest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.peach_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.peach_tree_configured.biomes was corrected from null to its default, [minecraft:sunflower_plains, minecraft:plains]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.apple_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.apple_tree_configured.biomes was corrected from null to its default, [minecraft:sunflower_plains, byg:prairie, minecraft:plains]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.pear_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.pear_tree_configured.biomes was corrected from null to its default, [byg:autumnal_forest, minecraft:forest, byg:autumnal_taiga, minecraft:windswept_forest, byg:aspen_forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, byg:jacaranda_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.grapefruit_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.grapefruit_tree_configured.biomes was corrected from null to its default, [byg:crag_gardens, byg:tropical_islands, byg:tropical_rainforest, minecraft:sparse_jungle, minecraft:jungle]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.star_fruit_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.star_fruit_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.nectarine_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.nectarine_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.lemon_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.lemon_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cherry_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.cherry_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:windswept_forest, byg:aspen_forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, byg:cherry_blossom_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.lime_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.lime_tree_configured.biomes was corrected from null to its default, [minecraft:forest, minecraft:flower_forest, byg:orchard, byg:red_oak_forest, minecraft:windswept_forest, byg:aspen_forest]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.pecan_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.pecan_tree_configured.biomes was corrected from null to its default, [minecraft:dark_forest, byg:weeping_witch_forest, byg:twilight_meadow, byg:dacite_ridges, byg:ebony_woods, byg:maple_taiga]. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.walnut_tree_configured was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldGeneration.walnut_tree_configured.biomes was corrected from null to its default, [minecraft:dark_forest, byg:weeping_witch_forest, byg:twilight_meadow, byg:dacite_ridges, byg:ebony_woods, byg:maple_taiga]. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\majruszsdifficulty-common.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key discord_url was corrected from null to its default, https://discord.gg/9UF774WcuW. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\dragonmounts-common.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key allow_egg_override was corrected from null to its default, true. 
+[23:01:39] [modloading-worker-0/WARN]: Configuration file C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\create-common.toml is not correct. Correcting
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.disableWorldGen was corrected from null to its default, false. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.clusterSize was corrected from null to its default, 32. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.frequency was corrected from null to its default, 0.0833333358168602. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.minHeight was corrected from null to its default, 40. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.maxHeight was corrected from null to its default, 90. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.clusterSize was corrected from null to its default, 32. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.frequency was corrected from null to its default, 0.0833333358168602. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.minHeight was corrected from null to its default, -30. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.maxHeight was corrected from null to its default, 70. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore was corrected from null to its default, SimpleCommentedConfig:{}. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.clusterSize was corrected from null to its default, 12. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.frequency was corrected from null to its default, 8.0. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.minHeight was corrected from null to its default, -63. 
+[23:01:39] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.maxHeight was corrected from null to its default, 70. 
+[23:01:40] [Forge Version Check/INFO]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MajruszsProgressiveDifficultyMod/1.19/update.json
+[23:01:40] [Forge Version Check/INFO]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.5.11 Target: null
+[23:01:40] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/5lpsZoRi/forge_updates.json
+[23:01:41] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.7-8 Target: null
+[23:01:41] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[23:01:41] [Forge Version Check/INFO]: [gravestone] Found status: OUTDATED Current: 1.19.2-1.0.0 Target: 1.19.2-1.0.1
+[23:01:41] [Forge Version Check/INFO]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[23:01:41] [Forge Version Check/INFO]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.4 Target: null
+[23:01:41] [Forge Version Check/INFO]: [majruszlib] Starting version check at https://raw.githubusercontent.com/Majrusz/MajruszLibrary/1.19.X/update.json
+[23:01:41] [Forge Version Check/INFO]: [majruszlib] Found status: OUTDATED Current: 2.15.1 Target: 2.16.0
+[23:01:41] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23:01:42] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 43.1.36 Target: 43.1.47
+[23:01:42] [Forge Version Check/INFO]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[23:01:42] [Forge Version Check/INFO]: [commonality] Found status: OUTDATED Current: 4.2.0 Target: 7.3.0
+[23:01:42] [Forge Version Check/INFO]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[23:01:42] [Forge Version Check/INFO]: [apexcore] Found status: UP_TO_DATE Current: 7.3.0 Target: null
+[23:01:42] [Forge Version Check/INFO]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[23:01:42] [Forge Version Check/INFO]: [fantasyfurniture] Found status: UP_TO_DATE Current: 6.6.0 Target: null
+[23:01:43] [Forge Version Check/INFO]: [nebs] Starting version check at https://infernalstudios.org/api/mods/nekosenchantedbooks/forge
+[23:01:43] [Forge Version Check/INFO]: [nebs] Found status: BETA Current: 1.8.0 Target: null
+[23:01:44] [Worker-Main-2/WARN]: Unable to load model: 'minecraft:shruster' referenced from: stalwart_dungeons:shruster#: java.io.FileNotFoundException: minecraft:models/shruster.json
+[23:01:46] [Worker-Main-2/WARN]: Unable to load model: 'dragonmounts:block/dragon_egg' referenced from: dragonmounts:dragon_egg#: java.io.FileNotFoundException: dragonmounts:models/block/dragon_egg.json
+[23:01:47] [Worker-Main-2/WARN]: Unable to load model: 'minecraft:item/celeste2a' referenced from: stalwart_dungeons:tungsten_shield#inventory: java.io.FileNotFoundException: minecraft:models/item/celeste2a.json
+[23:01:47] [Worker-Main-2/WARN]: Unable to load model: 'minecraft:item/celeste2b' referenced from: stalwart_dungeons:tungsten_shield#inventory: java.io.FileNotFoundException: minecraft:models/item/celeste2b.json
+[23:01:47] [Worker-Main-2/WARN]: Unable to load model: 'minecraft:hammer' referenced from: stalwart_dungeons:tungsten_hammer#inventory: java.io.FileNotFoundException: minecraft:models/hammer.json
+[23:01:47] [Worker-Main-2/WARN]: Unable to load model: 'minecraft:awfulgun' referenced from: stalwart_dungeons:awful_gun#inventory: java.io.FileNotFoundException: minecraft:models/awfulgun.json
+[23:01:49] [Worker-Main-6/ERROR]: Using missing texture, file patchouli:textures/items/book_blue.png not found
+[23:01:51] [Worker-Main-3/INFO]: Loading Xaero's Minimap - Stage 1/2
+[23:01:51] [Worker-Main-1/INFO]: Registered Furnish Screens.
+[23:01:52] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[23:01:52] [Render thread/INFO]: No Optifine!
+[23:01:52] [Render thread/INFO]: Loaded all shader sources.
+[23:01:52] [Worker-Main-2/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23:01:52] [Worker-Main-2/INFO]: Start loading plugin at snownee.jade.addon.forge.ForgePlugin
+[23:01:52] [Worker-Main-2/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23:01:52] [Worker-Main-2/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[23:01:52] [Thread-6/ERROR]: Catching
+java.nio.file.NoSuchFileException: C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Dania\config\jade\sort-order.json
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:484) ~[?:?]
+	at java.nio.file.Files.newOutputStream(Files.java:228) ~[?:?]
+	at java.nio.file.Files.write(Files.java:3512) ~[?:?]
+	at snownee.jade.impl.PriorityStore.lambda$updateConfig$0(PriorityStore.java:81) ~[Jade-1.19.1-forge-8.3.1.jar%23166!/:8.3.1]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:01:58] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[23:01:58] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[23:01:58] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (2- USB Audio Device)
+[23:01:58] [Render thread/INFO]: Sound engine started
+[23:01:58] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[23:01:58] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[23:01:58] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:01:59] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:01:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[23:01:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[23:01:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:02:00] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[23:02:01] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[23:02:01] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[23:02:01] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:02:01] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[23:02:01] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[23:02:01] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:02:43] [Render thread/INFO]: Stopping!

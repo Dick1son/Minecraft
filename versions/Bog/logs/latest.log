@@ -1,0 +1,93 @@
+[23:13:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:26] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[23:13:26] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[23:13:26] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Dick1son\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[23:13:26] [main/INFO]: Searching C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Bog\mods for mods
+[23:13:26] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:13:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:13:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:13:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:13:29] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:13:29] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[23:13:29] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:13:29] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:13:29] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[23:13:29] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[23:13:29] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[23:13:29] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:13:29] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[23:13:29] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 4 ms
+[23:13:30] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:13:30] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:13:30] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[23:13:30] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[23:13:31] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[23:13:31] [Client thread/INFO]: Setting user: Kycha
+[23:13:36] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:13:37] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[23:13:37] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 339371912 bytes (323 MB) / 805306368 bytes (768 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+TLSkinCapeHookLoader (tlskincape1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.14802 Compatibility Profile Context 22.2.1 30.0.14023.7007' Renderer: 'Radeon RX 580 Series'
+[23:13:37] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[23:13:37] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:13:37] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:13:37] [Client thread/INFO]: Replaced 1227 ore ingredients
+[23:13:37] [Client thread/INFO]: Searching C:\Users\Dick1son\AppData\Roaming\.minecraft\versions\Bog\mods for mods
+[23:13:39] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[23:13:39] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tlauncher_custom_cape_skin] at CLIENT
+[23:13:39] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, tlauncher_custom_cape_skin] at SERVER
+[23:13:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:TLSkinCape
+[23:13:39] [Client thread/INFO]: Processing ObjectHolder annotations
+[23:13:39] [Client thread/INFO]: Found 1168 ObjectHolder annotations
+[23:13:39] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[23:13:39] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[23:13:40] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[23:13:40] [Client thread/INFO]: Applying holder lookups
+[23:13:40] [Client thread/INFO]: Holder lookups applied
+[23:13:40] [Client thread/INFO]: Applying holder lookups
+[23:13:40] [Client thread/INFO]: Holder lookups applied
+[23:13:40] [Client thread/INFO]: Applying holder lookups
+[23:13:40] [Client thread/INFO]: Holder lookups applied
+[23:13:40] [Client thread/INFO]: Applying holder lookups
+[23:13:40] [Client thread/INFO]: Holder lookups applied
+[23:13:40] [Client thread/INFO]: Injecting itemstacks
+[23:13:40] [Client thread/INFO]: Itemstack injection complete
+[23:13:40] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:13:40] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 235168400 nanos
+[23:13:41] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:13:41] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[23:13:41] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:13:41] [Thread-5/INFO]: OpenAL initialized.
+[23:13:41] [Sound Library Loader/INFO]: Sound engine started
+[23:13:46] [Client thread/INFO]: Max texture size: 16384
+[23:13:49] [Client thread/INFO]: Created: 512x512 textures-atlas
+[23:13:51] [Client thread/INFO]: Applying holder lookups
+[23:13:51] [Client thread/INFO]: Holder lookups applied
+[23:13:51] [Client thread/INFO]: Injecting itemstacks
+[23:13:51] [Client thread/INFO]: Itemstack injection complete
+[23:13:51] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+[23:13:51] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[23:13:52] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:14:05] [Client thread/INFO]: Stopping!
+[23:14:05] [Client thread/INFO]: SoundSystem shutting down...
+[23:14:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
